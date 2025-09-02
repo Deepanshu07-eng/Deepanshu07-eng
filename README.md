@@ -24,8 +24,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Deepanshu07-eng&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
-
- ![](https://github-readme-stats.vercel.app/api?username=Deepanshu07-eng&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Deepanshu07-eng&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Deepanshu07-eng&theme=dark&hide_border=false)<br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu07-eng&theme=radical&layout=compact&hide_border=false" width="49%" />
