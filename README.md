@@ -1,32 +1,122 @@
-<h1 align="center">Hi 👋, I'm Deepanshu</h1>
-<h3 align="center">C++ Coder | Python Learner (AI & Data Science) | Budding Web Developer</h3>
+# HI I'm DEEPANSHU
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshu07-eng&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshu07-eng" /> </p>
+### **C++ Coder | Python Learner (AI & Data Science) | Budding Web Developer**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepanshu07-eng" alt="deepanshu07-eng" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/deepanshug77993" target="blank"><img src="https://img.shields.io/twitter/follow/deepanshug77993?logo=twitter&style=for-the-badge" alt="deepanshug77993" /></a> </p>
-
-- 🌱 I’m currently learning **PYTHON for Data Science and AIML and DSA in C++**
-
-- 📫 How to reach me **d2004gautam@gmail.com**
-
-- ⚡ Fun fact **🤯 Engineers debug more than they actually code.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/deepanshug77993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepanshug77993" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/deepanshu-gautam-d15d7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deepanshu-gautam-d15d7" height="30" width="40" /></a>
-<a href="https://instagram.com/deepanshu_gautam_157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepanshu_gautam_157" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@techstack992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@techstack992" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepanshu_157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepanshu_157" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Software+Engineer;Tech+Explorer;Lifelong+Learner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshu07-eng&show_icons=true&locale=en&layout=compact" alt="deepanshu07-eng" /></p>
+## 👋 About Me  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu07-eng&show_icons=true&locale=en" alt="deepanshu07-eng" /></p>
+I'm **Aman Kumar**, a passionate **Full Stack Developer** based in **New Delhi, India** 🇮🇳. I specialize in building modern, scalable web applications and have a strong foundation in **Data Structures & Algorithms (C++)**.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu07-eng&" alt="deepanshu07-eng" /></p>
+💡 I enjoy turning complex problems into clean, efficient solutions — and I’m always striving to learn, build, and grow in the tech space.
+
+---
+
+## 🎯 2025 Goals
+
+- 💻 Contribute to impactful **Open Source Projects**
+- 🚀 Build **Scalable Web Applications** that solve real-world problems
+- 🧠 Strengthen my **Problem-Solving** and **System Design** skills
+
+---
+
+## 🔭 Currently Learning
+
+- Advanced **DSA with C++**
+- Building real-world apps with **Next.js**, **TypeScript**, and **MongoDB**
+- Exploring DevOps and deployment workflows
+
+---
+
+## 🧠 Fun Fact
+
+I believe I’m **funny**, but my compiler strongly disagrees. 😅
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/aman-kumar-910843327/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Aman_Singh_2004" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  <a href="https://aman-rajput.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🧰 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamAmanrajput&theme=radical&include_all_commits=true&count_private=true&hide_border=false" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamAmanrajput&theme=radical&hide_border=false" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamAmanrajput&theme=radical&layout=compact&hide_border=false" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamAmanrajput&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamAmanrajput&theme=radical&no-frame=false&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamAmanrajput&theme=react-dark" />
+</p>
+
+---
+
+## 🚧 Projects & Contributions
+
+👨‍💻 **Currently working on**: Real-world full stack apps, open source contributions, and passion projects.  
+🌟 **Projects Section Coming Soon** — Stay tuned!
+
+---
+
+## 🎧 Dev Vibes
+
+- 🎵 **Now Playing:** Lo-Fi Coding Beats
+- 💻 **Editor of Choice:** VS Code
+- 🚀 **Motto:** *Keep Building. Keep Learning.*
+
+---
+
+## 🤝 Let’s Connect & Collaborate
+
+I’m always open to **collaborations, hackathons, internships, and freelance opportunities**.  
+Let's learn and grow together — feel free to reach out!
+
+---
+
+<p align="center">
+  💖 *Crafted with passion by Aman Kumar*
+</p>
+
+---
