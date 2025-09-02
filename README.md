@@ -26,7 +26,7 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu07-eng&theme=radical&hide_border=false" width="49%" />
+ ![](https://github-readme-stats.vercel.app/api?username=Deepanshu07-eng&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 </p>
 
 <p align="center">
@@ -43,5 +43,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 
