@@ -3,7 +3,7 @@
 ### **C++ Coder | Python Learner (AI & Data Science) | Budding Web Developer**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F27405&center=true&vCenter=true&width=500&lines=Data+Science+And+A+I+Engineer;Software+Engineer;Knowledge+Seeker;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F27405&center=true&vCenter=true&width=500&lines=Data+Science+And+AI+Engineer;Software+Engineer;Knowledge+Seeker;Tech+Enthusiast" />
 </p>
 
 ---
