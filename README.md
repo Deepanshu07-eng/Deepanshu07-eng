@@ -1,6 +1,6 @@
 # HI I'm DEEPANSHU
 
-### **C++ Coder | Python Learner (AI & Data Science) | Budding Web Developer**
+### **Advance DSA in C++  | Python Learner (AI & Data Science) | Budding Web Developer**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F27405&center=true&vCenter=true&width=500&lines=Data+Science+And+AI+Engineer;Software+Engineer;Knowledge+Seeker;Tech+Enthusiast" />
@@ -27,6 +27,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=Deepanshu07-eng&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Deepanshu07-eng&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu07-eng&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu07-eng&theme=react-dark" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
