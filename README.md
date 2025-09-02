@@ -1,3 +1,13 @@
+# HI I'm DEEPANSHU
+
+### **C++ Coder | Python Learner (AI & Data Science) | Budding Web Developer**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F27405&center=true&vCenter=true&width=500&lines=Data+Science+And+A+I+Engineer;Software+Engineer;Knowledge+Seeker;Tech+Enthusiast" />
+</p>
+
+---
+
 # 💫 About Me:
 ⚒️ I’m currently working on:<br>C++ projects and DSA and exploring AI and Data Science with Python<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects in AI, Data Science, or Web Dev<br><br>🙋 I’m looking for help with:<br>Deep learning frameworks and advanced web integrations<br><br>🌱 I’m currently learning:<br>Python for AI/ML, Data Science tools, and DSA in C++<br><br>💬 Ask me about:<br>C++ problem-solving, algorithms, and beginner-friendly coding tips<br><br>⚡ Fun fact:<br>I turn ☕ coffee into code faster than WiFi!
 
