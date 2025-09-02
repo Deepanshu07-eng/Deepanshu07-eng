@@ -29,6 +29,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu07-eng&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepanshu07-eng&theme=radical" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu07-eng&theme=react-dark" />
 </p>
 
