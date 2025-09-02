@@ -24,8 +24,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Deepanshu07-eng&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshu07-eng&theme=radical&include_all_commits=true&count_private=true&hide_border=false" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu07-eng&theme=radical&hide_border=false" width="49%" />
 </p>
 
