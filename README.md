@@ -19,7 +19,7 @@
 
 🎯 **Goal:** Grow as an engineer, contribute to meaningful products, and build software that creates real-world impact.
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=Deepanshu07-eng&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
