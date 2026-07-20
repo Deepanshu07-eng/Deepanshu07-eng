@@ -1,39 +1,148 @@
-# HI I'm DEEPANSHU
+<h1 align="center">Hi 👋, I'm Deepanshu</h1>
 
-###**Data Analyst | Python | SQL | Power BI | Excel**
-**Turning raw data into actionable business insights.**
+<h3 align="center">
+Aspiring Data Analyst | Python | SQL | Power BI | Excel
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F27405&center=true&vCenter=true&width=500&lines=Data+Science+And+AI+Engineer;Software+Engineer;Knowledge+Seeker;Tech+Enthusiast" />
+Turning raw data into actionable business insights.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=F27405&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;SQL+%7C+Power+BI+%7C+Excel;Data+Cleaning+%7C+EDA+%7C+Visualization;Always+Learning+New+Things" />
 </p>
 
 ---
 
-# 💫 About Me:
-⚒️ I’m currently working on:<br>C++ projects and DSA and exploring AI and Data Science with Python<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects in AI, Data Science, or Web Dev<br><br>🙋 I’m looking for help with:<br>Deep learning frameworks and advanced web integrations<br><br>🌱 I’m currently learning:<br>Python for AI/ML, Data Science tools, and DSA in C++<br><br>💬 Ask me about:<br>C++ problem-solving, algorithms, and beginner-friendly coding tips<br><br>⚡ Fun fact:<br>I turn ☕ coffee into code faster than WiFi!
+# 👨‍💻 About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deepanshu07-eng&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+🎓 B.Tech CSE Graduate
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepanshu_gautam_157) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-gautam-d15d7) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Zestyclose-Blood1677) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DeepanshuG77993) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@techstack992) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:d2004gautam@gmail.com) 
+📊 Passionate about Data Analytics, Business Intelligence and Data Visualization
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+🐍 Skilled in Python, SQL, Pandas, NumPy, Matplotlib, Excel and Power BI
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Deepanshu07-eng&limit=5&theme=radical&combine_all_yearly_contributions=true)
+📈 Interested in solving real-world business problems through data
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Deepanshu07-eng&theme=radical&border=false)<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu07-eng&theme=radical&layout=compact&hide_border=false" width="49%" />
+🚀 Currently building Data Analytics projects using Python, SQL & Power BI
+
+🎯 Looking for **Data Analyst Internship / Full-Time Opportunities**
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Statistics for Data Analytics
+- Machine Learning Fundamentals
+
+---
+
+# 💬 Ask Me About
+
+- Python
+- SQL
+- Pandas & NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Power BI
+- Git & GitHub
+
+---
+
+# 🚀 Featured Projects
+
+📊 Retail Customer Behavior Analysis
+
+📈 Student Result Analysis
+
+🚌 Smart Bus Route Optimization System
+
+🏥 Smart Queue Management System
+
+🔫 Gun Detection System
+
+---
+
+# 🏆 Certifications
+
+🏅 Google Data Analytics Professional Certificate
+
+🏅 freeCodeCamp Data Analysis with Python
+
+🏅 freeCodeCamp Scientific Computing with Python
+
+🏅 Coding Blocks DSA (Certificate of Excellence)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Deepanshu07-eng&theme=radical&no-frame=true&no-bg=true&margin-w=6)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-gautam-d15d7)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d2004gautam@gmail.com)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Deepanshu_157/)
+
+---
+
+# 💻 Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Data Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://nirzak-streak-stats.vercel.app/?user=Deepanshu07-eng&theme=radical&border=false)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Deepanshu07-eng&show_icons=true&theme=radical" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu07-eng&layout=compact&theme=radical" width="49%" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepanshu07-eng&theme=radical" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu07-eng&theme=react-dark" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu07-eng&theme=react-dark"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
+# 📈 Profile Views
 
+![](https://komarev.com/ghpvc/?username=Deepanshu07-eng&label=Profile%20Views&color=0e75b6&style=flat)
 
+---
 
+# ✨ Quote
+
+> "Without data, you're just another person with an opinion." — W. Edwards Deming
