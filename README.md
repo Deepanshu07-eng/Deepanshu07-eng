@@ -1,6 +1,7 @@
 # HI I'm DEEPANSHU
 
-### **Advance DSA in C++  | Python Learner (AI & Data Science) | Budding Web Developer**
+### **Data Analyst | Python | SQL | Power BI | Excel
+Turning raw data into actionable business insights.**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F27405&center=true&vCenter=true&width=500&lines=Data+Science+And+AI+Engineer;Software+Engineer;Knowledge+Seeker;Tech+Enthusiast" />
