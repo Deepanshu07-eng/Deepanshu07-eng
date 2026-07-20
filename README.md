@@ -7,17 +7,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=41BBD9&center=true&vCenter=true&width=750&lines=Software+Engineer;Python+Developer;Data+Analytics+Enthusiast;FastAPI+%7C+Streamlit+Developer;Always+Learning+New+Technologies+🚀" />
 </p>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
+## 👋 About Me
 
 <table>
 <tr>
-<td width="60%">
+<td width="58%" valign="top">
 
 🚀 I'm a passionate **Software Engineer** who enjoys building impactful applications and solving real-world problems through technology.
 
 💻 My interests span across **Software Development, Data Analytics, Artificial Intelligence, and Backend Engineering**, where I love transforming ideas into scalable solutions.
 
-🐍 I primarily work with **Python, FastAPI, Streamlit, SQL, and modern development tools** while continuously exploring **Machine Learning** and **Data Science**.
+🐍 I primarily work with **Python, FastAPI, Streamlit, SQL, JavaScript, and modern development tools**, while continuously exploring **Machine Learning** and **Data Science**.
 
 📊 I believe in **learning by building**, which is why most of my time goes into creating projects, strengthening problem-solving skills, and experimenting with new technologies.
 
@@ -25,15 +25,28 @@
 
 </td>
 
-<td width="40%">
+<td width="42%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu07-eng&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Deepanshu07-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%"/>
 
 </td>
 </tr>
 </table>
 
 ---
+
+## ⚡ Currently Exploring
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-1F6FEB?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
 
 ### ⚡ Currently Exploring
 
