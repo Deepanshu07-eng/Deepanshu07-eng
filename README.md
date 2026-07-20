@@ -9,10 +9,6 @@
 
 ## 👋 About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 🚀 I'm a passionate **Software Engineer** who enjoys building impactful applications and solving real-world problems through technology.
 
 💻 My interests span across **Software Development, Data Analytics, Artificial Intelligence, and Backend Engineering**, where I love transforming ideas into scalable solutions.
@@ -22,16 +18,6 @@
 📊 I believe in **learning by building**, which is why most of my time goes into creating projects, strengthening problem-solving skills, and experimenting with new technologies.
 
 🎯 **Goal:** Grow as an engineer, contribute to meaningful products, and build software that creates real-world impact.
-
-</td>
-
-<td width="42%" align="center" valign="middle">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Deepanshu07-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
