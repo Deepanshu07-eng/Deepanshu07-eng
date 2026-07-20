@@ -4,7 +4,7 @@
 **Turning raw data into actionable business insights.**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F18F01&center=true&vCenter=true&width=750&lines=Software+Engineer;Python+Developer;Data+Analytics+Enthusiast;FastAPI+%7C+Streamlit+Developer;Always+Learning+New+Technologies+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=41BBD9&center=true&vCenter=true&width=750&lines=Software+Engineer;Python+Developer;Data+Analytics+Enthusiast;FastAPI+%7C+Streamlit+Developer;Always+Learning+New+Technologies+🚀" />
 </p>
 
 # 💫 About Me:
