@@ -7,8 +7,49 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=41BBD9&center=true&vCenter=true&width=750&lines=Software+Engineer;Python+Developer;Data+Analytics+Enthusiast;FastAPI+%7C+Streamlit+Developer;Always+Learning+New+Technologies+🚀" />
 </p>
 
-# 💫 About Me:
-⚒️ I’m currently working on:<br>C++ projects and DSA and exploring AI and Data Science with Python<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects in AI, Data Science, or Web Dev<br><br>🙋 I’m looking for help with:<br>Deep learning frameworks and advanced web integrations<br><br>🌱 I’m currently learning:<br>Python for AI/ML, Data Science tools, and DSA in C++<br><br>💬 Ask me about:<br>C++ problem-solving, algorithms, and beginner-friendly coding tips<br><br>⚡ Fun fact:<br>I turn ☕ coffee into code faster than WiFi!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
+
+<table>
+<tr>
+<td width="60%">
+
+🚀 I'm a passionate **Software Engineer** who enjoys building impactful applications and solving real-world problems through technology.
+
+💻 My interests span across **Software Development, Data Analytics, Artificial Intelligence, and Backend Engineering**, where I love transforming ideas into scalable solutions.
+
+🐍 I primarily work with **Python, FastAPI, Streamlit, SQL, and modern development tools** while continuously exploring **Machine Learning** and **Data Science**.
+
+📊 I believe in **learning by building**, which is why most of my time goes into creating projects, strengthening problem-solving skills, and experimenting with new technologies.
+
+🎯 **Goal:** Grow as an engineer, contribute to meaningful products, and build software that creates real-world impact.
+
+</td>
+
+<td width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu07-eng&layout=compact&theme=radical&hide_border=true"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⚡ Currently Exploring
+
+<p align="left">
+
+🌐 Backend Development • FastAPI • Streamlit
+
+📊 Data Analytics • Power BI • SQL
+
+🤖 Artificial Intelligence & Machine Learning
+
+🧩 Data Structures & Algorithms
+
+☁️ Cloud Technologies
+
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Deepanshu07-eng&theme=radical&no-frame=true&no-bg=true&margin-w=4)
